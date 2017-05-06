@@ -1,0 +1,4 @@
+File "/usr/lib/libbz2.so.1.0.6" (CPE = cpe:/a:bzip:bzip2:1.0.6:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-3189)
+  CVSS Score is 4.3
+  Full vulnerability match (incl. edition/language)

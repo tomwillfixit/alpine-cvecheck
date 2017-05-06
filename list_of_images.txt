@@ -1,0 +1,10 @@
+nginx:1.13.0-alpine-perl
+redis:3.2.8-alpine
+logstash:1.5.6-alpine
+logstash:1-alpine
+elasticsearch:1.7.6-alpine
+wordpress:4.7.4-php7.1-fpm-alpine
+ruby:2.1.8-alpine
+consul:v0.7.0
+python:3.4.5-alpine
+rabbitmq:3.6.6-alpine

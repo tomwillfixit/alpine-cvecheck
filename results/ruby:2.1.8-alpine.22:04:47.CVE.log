@@ -1,0 +1,224 @@
+File "/usr/bin/bzip2" (CPE = cpe:/a:bzip:bzip2:1.0.6:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-3189)
+  CVSS Score is 4.3
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/bunzip2" (CPE = cpe:/a:bzip:bzip2:1.0.6:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-3189)
+  CVSS Score is 4.3
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/bzcat" (CPE = cpe:/a:bzip:bzip2:1.0.6:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-3189)
+  CVSS Score is 4.3
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/bzip2recover" (CPE = cpe:/a:bzip:bzip2:1.0.6:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-3189)
+  CVSS Score is 4.3
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2105)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2106)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2107)
+  CVSS Score is 2.6
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2109)
+  CVSS Score is 7.8
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2176)
+  CVSS Score is 6.4
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2177)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2178)
+  CVSS Score is 2.1
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2179)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2180)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2181)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2182)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-6302)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/bin/openssl" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-6303)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2105)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2106)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2107)
+  CVSS Score is 2.6
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2109)
+  CVSS Score is 7.8
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2176)
+  CVSS Score is 6.4
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2177)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2178)
+  CVSS Score is 2.1
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2179)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2180)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2181)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2182)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-6302)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/ruby/2.1.0/x86_64-linux/openssl.so" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-6303)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2105)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2106)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2107)
+  CVSS Score is 2.6
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2109)
+  CVSS Score is 7.8
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2176)
+  CVSS Score is 6.4
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2177)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2178)
+  CVSS Score is 2.1
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2179)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2180)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2181)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2182)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-6302)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libcrypto.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-6303)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2105)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2106)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2107)
+  CVSS Score is 2.6
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2109)
+  CVSS Score is 7.8
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2176)
+  CVSS Score is 6.4
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2177)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2178)
+  CVSS Score is 2.1
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2179)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2180)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2181)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-2182)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-6302)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/lib/libssl.so.1.0.0" (CPE = cpe:/a:openssl:openssl:1.0.2g:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-6303)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)

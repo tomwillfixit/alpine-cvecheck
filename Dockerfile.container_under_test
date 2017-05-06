@@ -1,0 +1,23 @@
+
+FROM IMAGE_NAME as container_under_test
+
+############################
+# cvechecker
+############################
+FROM cvechecker:latest 
+
+#This isn't a great method but it works. The cvechecker container requires the executables from the Wordpress container to scan against the CVE database.
+ 
+COPY --from=container_under_test / /
+
+#Generate a list of executables and the kernel version
+RUN find / -type f -perm -o+x > /tmp/scanlist.txt
+RUN cat /proc/version >> /tmp/scanlist.txt
+
+#Run Scan
+RUN cvechecker -b /tmp/scanlist.txt
+
+RUN cvechecker -r > /tmp/CVE.log
+
+RUN cat /tmp/CVE.log
+

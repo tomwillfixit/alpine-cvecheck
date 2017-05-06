@@ -1,0 +1,184 @@
+File "/usr/libexec/rmt" (CPE = cpe:/a:gnu:tar:1.29:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2016-6321)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2006-0903)
+  CVSS Score is 4.6
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2006-1516)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2006-1517)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2006-1518)
+  CVSS Score is 6.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2006-2753)
+  CVSS Score is 7.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2006-3469)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2006-3486)
+  CVSS Score is 2.1
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2006-4031)
+  CVSS Score is 2.1
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2006-4226)
+  CVSS Score is 3.6
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2007-1420)
+  CVSS Score is 2.1
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2007-2583)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2007-2691)
+  CVSS Score is 4.9
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2007-2692)
+  CVSS Score is 6.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2007-6303)
+  CVSS Score is 3.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2007-6304)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2008-2079)
+  CVSS Score is 4.6
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2008-3963)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2008-4098)
+  CVSS Score is 4.6
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2008-7247)
+  CVSS Score is 6.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2009-2446)
+  CVSS Score is 8.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2009-4019)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2009-4028)
+  CVSS Score is 6.8
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2009-5026)
+  CVSS Score is 6.8
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-1848)
+  CVSS Score is 6.5
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-1849)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-1850)
+  CVSS Score is 6.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-3677)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-3682)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-3833)
+  CVSS Score is 5.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-3834)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-3836)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-3837)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2010-3838)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-0075)
+  CVSS Score is 1.7
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-0087)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-0101)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-0102)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-0114)
+  CVSS Score is 3.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-0484)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-0490)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-1696)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-1697)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-3160)
+  CVSS Score is 2.1
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-3166)
+  CVSS Score is 4.0
+  Full vulnerability match (incl. edition/language)
+File "/usr/local/lib/php/extensions/no-debug-non-zts-20160303/mysqli.so" (CPE = cpe:/a:mysql:mysql:5.0.12:::) on host 837a64dcc771 (key 837a64dcc771)
+  Potential vulnerability found (CVE-2012-3177)
+  CVSS Score is 6.8
+  Full vulnerability match (incl. edition/language)

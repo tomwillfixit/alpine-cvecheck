@@ -1,0 +1,16 @@
+# Create Image which contains the latest CVE database
+
+FROM alpine:3.4
+
+RUN apk update
+
+RUN apk add cvechecker
+RUN cvechecker -i
+
+#This next step can take a while. Will refine this later to use caching per year to avoid a full download of the CVE database
+RUN pullcves pull || echo 0
+
+RUN mkdir /results
+
+CMD cvechecker
+

@@ -1,0 +1,37 @@
+==============================
+[31m1 CVE's found for image : nginx:1.13.0-alpine-perl [0m
+Details in nginx:1.13.0-alpine-perl.CVE.log
+==============================
+==============================
+[32mNo CVE's found for image : redis:3.2.8-alpine [0m
+==============================
+==============================
+[31m1 CVE's found for image : logstash:1.5.6-alpine [0m
+Details in logstash:1.5.6-alpine.CVE.log
+==============================
+==============================
+[31m1 CVE's found for image : logstash:1-alpine [0m
+Details in logstash:1-alpine.CVE.log
+==============================
+==============================
+[31m1 CVE's found for image : elasticsearch:1.7.6-alpine [0m
+Details in elasticsearch:1.7.6-alpine.CVE.log
+==============================
+==============================
+[31m46 CVE's found for image : wordpress:4.7.4-php7.1-fpm-alpine [0m
+Details in wordpress:4.7.4-php7.1-fpm-alpine.CVE.log
+==============================
+==============================
+[31m56 CVE's found for image : ruby:2.1.8-alpine [0m
+Details in ruby:2.1.8-alpine.CVE.log
+==============================
+==============================
+[32mNo CVE's found for image : consul:v0.7.0 [0m
+==============================
+==============================
+[31m1 CVE's found for image : python:3.4.5-alpine [0m
+Details in python:3.4.5-alpine.CVE.log
+==============================
+==============================
+[32mNo CVE's found for image : rabbitmq:3.6.6-alpine [0m
+==============================
