@@ -1,0 +1,15 @@
+FROM alpine:3.5 as wordpress
+
+RUN apk update
+
+RUN apk --no-cache add php7 php7-fpm php7-mysqli php7-json php7-openssl php7-curl     php7-zlib php7-xml php7-phar php7-intl php7-dom php7-xmlreader php7-ctype     php7-mbstring libarchive php7-gd nginx
+
+RUN find / -type f -perm -o+x > /tmp/scanlist.txt
+RUN cat /proc/version >> /tmp/scanlist.txt
+
+FROM cvechecker:latest
+
+COPY --from=application / /
+RUN cvechecker -b /tmp/scanlist.txt
+RUN cvechecker -r
+
