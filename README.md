@@ -4,7 +4,9 @@
 
 The tl;dr of this post is that I want to scan my Alpine based images locally for vulnerabilities before pushing the image to an online registry. Why? Well I think it makes sense that developers have the option of checking for CVE's locally and at build time. They may choose to ignore the results but it's nice to have the option.  In future this could perhaps be made into a plugin or included with the docker build function.
 
-I mentioned this to a few folks at DockerCon and decided to put together a simple demo.  Using the MultiStage build feature in Docker 17_05 we can append a CVE scan stage into our build and run a scan at build time.
+I mentioned this to a few folks at DockerCon and decided to put together a simple demo.  Using the MultiStage build feature in [Docker 17.05](https://docs.docker.com/engine/userguide/eng-image/multistage-build/) we can append a CVE scan stage into our build and run a scan at build time.  I also have a service running in Docker Swarm that updates the CVE database each hour and is available to all cluster nodes where image builds happen. That's for another day.
+
+Let's get started. This first step will take a few minutes since it downloads the CVE database which is around 800mb.
 
 ## Step 1
 
@@ -210,12 +212,12 @@ This will pull each image, copy the contents into the cvechecker image, generate
 
 # Summary
 
-I like free stuff. This isn't bullet-proof but it's already found a few questionable images which I would have just used without checking for potential issues.
+I like free stuff. This isn't bullet-proof but it's already found a few questionable images which I would previously have used without question.
 
 I'll tidy this up in the coming weeks and perhaps use Goss as a trigger for the CVE check.
 
 Feel free to contact me for more details, banter, pull requests etc
 
-@tomwillfixit @Shipitcon @DockerDublin
+@tomwillfixit @Shipitcon @DockerDublin #DockerCaptain
 
 
